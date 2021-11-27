@@ -18,3 +18,7 @@ author: Jin Ho Lee
 - plot.ipynb: Generate plots using implemented algorithms
 - Random_Descent.ipynb: Generate plot of the random descent method
 - algorithms_ipynb_descriptions: Detailed implementation of algorithms with step-by-step explanation in notebook format
+
+
+## Results:
+![Alt text](/Plots/algorithm_12.PNG?raw=true "Algorithm 1 vs Algorithm 2")
