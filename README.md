@@ -26,7 +26,7 @@ author: Jin Ho Lee
 - 10 items
 - number of agents increases from 10 to 50
 
-![Alt text](/Plots/random_versus_ip_12.PNG?raw=true "Random Descent Method vs Integer Programming")
+![Alt text](/Plots/random_versus_ip.PNG?raw=true "Random Descent Method vs Integer Programming")
 - Random Descent Method vs Integer Programming
 - 20 items
 - 40 agents
