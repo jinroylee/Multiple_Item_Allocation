@@ -22,3 +22,14 @@ author: Jin Ho Lee
 
 ## Results:
 ![Alt text](/Plots/algorithm_12.PNG?raw=true "Algorithm 1 vs Algorithm 2")
+- 10 items
+- number of agents increases from 10 to 50
+
+![Alt text](/Plots/radom_versus_ip_12.PNG?raw=true "Random Descent Method vs Integer Programming")
+- 20 items
+- 40 agents
+
+![Alt text](/Plots/random_over_iteration.PNG?raw=true "Performance of random descent algorithm over iteration")
+- 10 items
+- number of agents increases from 10 to 50
+
