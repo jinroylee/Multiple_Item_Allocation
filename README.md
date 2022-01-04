@@ -1,7 +1,6 @@
 # Optimal Multiple-item Resource Allocation Subject to Network Effects
 
-author: Jin Ho Lee
-- jinhohl2@illinois.edu
+> Jinho Lee (jinhohl2@illinois.edu)
 
 ## Purposes:
 - 1. Implement integer programming, linear optimization for convex probrem, and two rounding algorithms
@@ -19,6 +18,14 @@ author: Jin Ho Lee
 - Random_Descent.ipynb: Generate plot of the random descent method
 - algorithms_ipynb_descriptions: Detailed implementation of algorithms with step-by-step explanation in notebook format
 
+## Environment Requirement
+The code has been tested under Python 3.9.6. The required packages are as follows:
+
+* scipy == 1.4.1
+* numpy == 1.19.5
+* pandas == 1.3.1
+* matplotlib == 3.4.2
+* cvxpy == 1.1.17
 
 ## Results:
 ![Alt text](/Plots/algorithm_12.PNG?raw=true "Algorithm 1 vs Algorithm 2")
